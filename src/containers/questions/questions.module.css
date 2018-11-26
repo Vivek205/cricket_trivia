@@ -1,0 +1,25 @@
+.questions{
+    width: 45vw;
+  border-radius:3px;
+  box-sizing:border-box;
+  border: 2px solid #f7f7f7;
+  float: left;
+  margin-left: 5vw;
+  /* margin: 0px auto; */
+}
+.buttons{
+    width:100%;
+}
+.incorrect{
+    border:1px solid red;
+}
+@media screen and (max-width: 700px) {
+    .questions{
+    width: 280px;
+    border-radius:3px;
+    box-sizing:border-box;
+    border: 1px solid #f7f7f7;
+    /* margin: 0px auto; */
+  }
+  }
+
