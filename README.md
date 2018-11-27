@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This projecto was created using React + Redux
+This project was created using React + Redux
 
 ## Available Scripts
 
