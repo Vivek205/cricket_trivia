@@ -3,3 +3,14 @@
     width: 45vw;
     /* display: inline; */
 }
+
+@media screen and (max-width: 700px) {
+    .graph{
+        float:left;
+    width: 280px;
+    border-radius:3px;
+    box-sizing:border-box;
+    border: 1px solid #f7f7f7;
+    /* margin: 0px auto; */
+  }
+  }
